@@ -1,0 +1,15 @@
+{
+  "name": "book-explorer-q7",
+  "version": "1.0.0",
+  "description": "Folio — Open Library Discovery App",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "MAYUR R KENI (24BCE0686)",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
